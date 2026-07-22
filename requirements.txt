@@ -1,7 +1,10 @@
-smartapi-python
-pyotp
+jupyter
+notebook
 pandas
 numpy
 requests
+pyotp
 websocket-client
+smartapi-python
 python-telegram-bot
+ta
