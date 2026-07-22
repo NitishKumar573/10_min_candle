@@ -8,3 +8,4 @@ websocket-client
 smartapi-python
 python-telegram-bot
 ta
+streamlit
